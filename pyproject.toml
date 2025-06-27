@@ -1,0 +1,10 @@
+[project]
+name = "python-nn-mnist-from-scratch"
+version = "0.1.0"
+description = "Implementing Neural Network Architecture using Numpy from Scratch for Deep Learning."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "idx2numpy>=1.2.3",
+    "numpy>=2.3.1",
+]
